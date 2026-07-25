@@ -104,7 +104,7 @@
     "@types/ws": "^8.5.14",
     "@typescript/native-preview": "7.0.0-dev.20260423.1",
     "@vercel/nft": "^1.5.0",
-    "concurrently": "^9.2.1",
+    "concurrently": "^9.2.4",
     "cross-env": "^10.1.0",
     "get-port-cli": "^3.0.0",
     "js-yaml": "^4.1.1",
